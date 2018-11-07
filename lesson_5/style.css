@@ -1,0 +1,52 @@
+body{
+	background: #FFE4E1;
+}
+h1{
+	color: #708090;
+}
+p{
+	color:#708090;
+	font-weight: bold;
+	font-style: italic;
+	text-decoration: underline  ;
+}
+#woman{
+	color:#708090;
+	font-weight: lighter;
+	font-style: italic;
+}
+h2{
+	color: #4682B4;
+	font-style: italic;
+}
+ul{
+	color:  #708090;
+	font-style: italic;
+}
+.block{
+	color:  #708090;
+	font-style: italic;
+	text-decoration: underline;
+	font-weight: bold;
+}
+ol{
+	color:  #808080;
+	font-style: italic;
+	font-size: 14pt;
+}
+#hobby{
+	color:  #F08080;
+	font-style: oblique;
+}
+.color{
+	color:  #CD5C5C;
+	font-style: oblique;
+}
+span{
+	color:  #696969;
+	font-style: oblique;
+	font-size: 16pt;
+}
+body, h1, h2, span, .color, #hobby, ol, ul, .block, #woman, p{
+	font-family: Arial, sans-serif;
+}
