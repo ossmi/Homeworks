@@ -1,0 +1,91 @@
+.header{
+	text-align: center;
+} 
+p{
+	text-align: justify;
+}
+body{
+	background: #E6E6FA;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	margin-left: 60px;
+  margin-right: 60px;
+}
+img{
+	width: 500px;
+	height: 300px;
+}
+.imgcenter{
+	text-align: center;
+}
+.italic{
+	font-style: italic;
+}
+#begin{
+	font-style: italic;
+	border-width: 7px;
+	border-style: ridge;
+	padding: 5px;
+	border-color: #FFDEAD;
+	background: #D3D3D3;
+}
+ul, ol, li{
+	color: #708090;
+	font-size: 18px;
+}
+a{
+	color: #708090;
+}
+#color1{
+	color: #4682B4;
+}
+#color2{
+	color: #696969;
+}
+#color3{
+	color: #808080;
+}
+#color4{
+	color: #5F9EA0;
+}
+#color5{
+	color: #4682B4;
+}
+#color6{
+	color: #708090;
+}
+#color7, #note4{
+	color: #4682B4;
+}
+#color8{
+	color: #4682B4;
+}
+#chapter1{
+	color: #F08080;
+}
+#chapter2{
+	color: #CD5C5C;
+}
+#chapter3{
+	color: #A52A2A;
+}
+#chapter4{
+	color: #B22222;
+}
+#chapter5{
+	color: #800000;
+}
+#note1, #note2, #note3, #note5 {
+	font-size: 18px;
+	font-weight: bolder;
+}
+.linethrough{
+	text-decoration: line-through;
+}
+.bolder{
+font-weight: bolder;
+}
+.underline{
+text-decoration: underline;
+}
+
